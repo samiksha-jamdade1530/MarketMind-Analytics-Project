@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MarketMind Analytics: Retail & FMCG Analysis
 
 ## Project Overview
@@ -326,3 +327,6 @@ Interested in Data Science, AI, and Business Analytics
 ## License
 
 This project is developed for academic and learning purposes.
+=======
+# MarketMind-Analytics-Project
+>>>>>>> 25d2ee989eb50000eab203b45f890b82c686790b
